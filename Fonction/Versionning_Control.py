@@ -24,6 +24,6 @@ def Version_Control():
         else:
             print("torch GPU présent")
             print("Fin de la verification de version")
-            print("\n\n\n")
+            print("\n")
 
 Version_Control()
